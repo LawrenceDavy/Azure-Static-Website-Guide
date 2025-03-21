@@ -172,9 +172,10 @@ az cdn endpoint create \
   --origin-host-header mystorageaccount.z6.web.core.windows.net
 ```
 
-**Screenshot Placeholder**:  
-![Create CDN Endpoint](path/to/screenshot6.png)  
-*Replace `path/to/screenshot6.png` with the actual screenshot of the CDN endpoint creation.*
+![image](https://github.com/user-attachments/assets/852e4887-27de-4328-a782-6686d8591497)
+![image](https://github.com/user-attachments/assets/55a13854-3aaf-42fe-832b-68036e643844)
+
+
 
 ---
 
