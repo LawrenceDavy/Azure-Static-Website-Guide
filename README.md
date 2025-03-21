@@ -37,17 +37,17 @@ Azure Storage accounts provide a unique namespace for your Azure Storage data.
 3.  Search for **"Storage account"** and select it.
 4.  Click **"Create"**.
 
-    ![Screenshot Placeholder]
+![Image](https://github.com/user-attachments/assets/f313fd14-34b1-4a0d-beae-a42c00cccc52)
 
 5.  On the **"Basics"** tab:
     * **Subscription:** Choose your Azure subscription.
     * **Resource group:** Create a new resource group or select an existing one to organize your resources.
     * **Storage account name:** Enter a globally unique name for your storage account (e.g., `youruniquewebsitename`).
-    * **Region:** Select the Azure region closest to your target audience.
+    * **Region:** Select the Azure region closest to your target audience. ((( EDIT: CANNOT USE UKWEST FOR CDN. USEAST WAS CHOSEN INSTEAD> MORE INFROMAION LATER )))
     * **Performance:** Choose **"Standard"** for most static website scenarios.
     * **Redundancy:** Select an appropriate redundancy option based on your requirements (e.g., **"Locally-redundant storage (LRS)"** for basic scenarios).
 
-    ![Screenshot Placeholder]
+![Image](https://github.com/user-attachments/assets/e0595a1b-7539-415d-9afa-996229db4b17)
 
 6.  Click **"Review + create"**.
 7.  Review the configuration and click **"Create"**.
