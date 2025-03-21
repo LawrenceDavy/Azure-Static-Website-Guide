@@ -105,7 +105,7 @@ Upload your website files to the `$web` container:
 - **Commands:**
     - Create locally: mkdir website && echo "<h1>My Azure Static Site</h1>" > website/index.html
     - Upload: az storage blob upload-batch --account-name mystorageaccount --source ./website --destination \$web
-- **Detailed Explanation:**
+- **Detailed Explanation:**#
     - On your local machine, mkdir website creates a folder, and the echo command writes a simple HTML file (edit with a text editor like VS Code for more content, e.g., <p>AZ-900 Project</p>).
     - Navigate to the parent directory (cd to where website is), then run the upload command.
     - -source ./website points to your folder; --destination \$web targets the static website container (use $web verbatim).
@@ -117,9 +117,8 @@ az storage blob upload-batch \
   --destination \$web
 ```
 
-**Screenshot Placeholder**:  
-![Upload Website Files](path/to/screenshot4.png)  
-*Replace `path/to/screenshot4.png` with the actual screenshot of the file upload process.*
+![Image](https://github.com/user-attachments/assets/d8f32d2f-4b85-47ff-a828-8d30fc3a57e0)
+![Image](https://github.com/user-attachments/assets/8a2194cf-ef91-4181-a0ef-223366912d2d)
 
 ---
 
@@ -141,9 +140,9 @@ az cdn profile create \
   --sku Standard_Microsoft
 ```
 
-**Screenshot Placeholder**:  
-![Create CDN Profile](path/to/screenshot5.png)  
-*Replace `path/to/screenshot5.png` with the actual screenshot of the CDN profile creation.*
+![image](https://github.com/user-attachments/assets/ac98e7e9-0a5a-4e19-a52c-1a651776a2e0)
+![image](https://github.com/user-attachments/assets/3eea7a03-d662-4a44-af27-39c1a25298b1)
+
 
 ---
 
