@@ -194,6 +194,7 @@ echo "Website URL: http://MyCDNEndpoint.azureedge.net"
 ```
 
 ![image](https://github.com/user-attachments/assets/ba6b4ccc-513b-4263-91c7-c45079a8884e)
+![image](https://github.com/user-attachments/assets/d02fd7d3-9d3a-4464-8e88-cb6b43703e95)
 
 
 ---
@@ -214,9 +215,9 @@ To avoid unnecessary charges, delete the resource group and all associated resou
 az group delete --name MyResourceGroup --yes
 ```
 
-**Screenshot Placeholder**:  
-![Clean Up Resources](path/to/screenshot8.png)  
-*Replace `path/to/screenshot8.png` with the actual screenshot of the resource group deletion.*
+![Image](https://github.com/user-attachments/assets/05dbea17-392b-460a-a739-4e24604e256b)
+![Image](https://github.com/user-attachments/assets/b3514e44-ec97-454b-9b32-d3133dce60a7)
+![image](https://github.com/user-attachments/assets/1107bbd3-1bf3-4c67-b72b-397d2b9ad24a)
 
 ---
 
