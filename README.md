@@ -198,10 +198,3 @@ If you want to remove the resources created in this guide, you can delete the re
 * **CDN not reflecting changes:** It might take some time for changes to propagate through the CDN. You can try purging the CDN endpoint cache in the Azure portal.
 * **Custom domain not working:** Double-check the CNAME record configuration with your domain registrar and ensure it points to the correct CDN endpoint hostname.
 
-## Contributing
-
-Contributions to this guide are welcome! Feel free to fork this repository and submit pull requests with improvements or corrections.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
