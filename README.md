@@ -193,9 +193,8 @@ Once the CDN endpoint is provisioned, test your website by navigating to the CDN
 echo "Website URL: http://MyCDNEndpoint.azureedge.net"
 ```
 
-**Screenshot Placeholder**:  
-![Test Website](path/to/screenshot7.png)  
-*Replace `path/to/screenshot7.png` with the actual screenshot of the website in the browser.*
+![image](https://github.com/user-attachments/assets/ba6b4ccc-513b-4263-91c7-c45079a8884e)
+
 
 ---
 
