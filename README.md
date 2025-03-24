@@ -1,4 +1,4 @@
-# Project 1: Deploy a Static Website with Azure Storage and CDN
+Deploy a Static Website with Azure Storage and CDN
 
 This project demonstrates how to deploy a static website using Azure Storage and Azure Content Delivery Network (CDN). The steps below guide you through the entire process using Azure CLI commands. This project is ideal for showcasing your cloud infrastructure skills, particularly in Azure.
 
@@ -227,10 +227,3 @@ This project demonstrates how to deploy a static website using Azure Storage and
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to replace the placeholder text and screenshots with your actual content. This README is designed to be professional and easy to follow, making it ideal for showcasing your skills to potential employers.
